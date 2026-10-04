@@ -1,0 +1,8 @@
+{
+  "name": "Dr Nayak’s Dental | Dental Clinic in Raichur",
+  "description": "Dr Nayak’s Dental is a premier dental clinic on Jain Temple Road, Raichur, Karnataka. Professional dental care focused on comfort, oral health, and confident smiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
